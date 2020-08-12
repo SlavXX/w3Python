@@ -44,9 +44,9 @@ Installation of NumPy
 If you have Python and PIP already installed on a system, then installation of NumPy is very easy.
 """
 #Install it using this command:
-"""
-C:\Users\Your Name>pip install numpy
-If this command fails, then use a python distribution that already has NumPy installed like, Anaconda, Spyder etc.
+
+#C:\Users\Your Name>pip install numpy
+#If this command fails, then use a python distribution that already has NumPy installed like, Anaconda, Spyder etc.
 """
 Import
 
@@ -59,7 +59,7 @@ NumPy
 
 import numpy
 """
-Now Numpy is imported and ready to use.
+#Now Numpy is imported and ready to use.
 """
 #Example
 import numpy
@@ -81,9 +81,10 @@ arr = np.array([1, 2, 3, 4, 5])
 print(arr)
 
 """
-Checking NumPy Version
-The version string is stored under __version__ attribute.
+#Checking NumPy Version
+#The version string is stored under __version__ attribute.
 """
 #Example
 import numpy as np
 print(np.__version__)
+"""
