@@ -55,7 +55,7 @@ Setting the Specific Data Type
 If you want to specify the data type, you can use the following constructor functions:
 """
 
-#Example	Data Type	Try it
+#Example	                                    Data Type
 """
 x = str("Hello World")	                        str
 x = int(20)	                                    int

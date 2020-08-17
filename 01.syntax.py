@@ -1,9 +1,10 @@
-#Execute Python Syntax
-#As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:
+"""
+Execute Python Syntax
+As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:
 
-#Where in other programming languages the indentation in code is for readability only,
-#the indentation in Python is very important.
-
+Where in other programming languages the indentation in code is for readability only,
+the indentation in Python is very important.
+"""
 
 #Example
 if 5 > 2:
